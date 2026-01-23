@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU3MjhwaWx0aTQ2ZjhtM2U2bXJkMjI2Yzc0bjR6dm9oZm16bnE2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+  <img src="https://count.getloli.com/@:uniq-wav?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=uniq-wav.uniq-wav&"  />
-</div>
-
-###
-
 <h1 align="center">Olá/Hello 👋</h1>
 
 ###
@@ -29,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Unique from Portugal,<br><br>- 🔭 I’m a High school Student<br>- 📚 I'm currently learning APIs and ML<br>- ⚡ In my free time I code and produce music</p>
+<p align="left">Yo wsp?, i'm Unique from Portugal<br><br>- 🔭 I’m a High schooler<br>- 📚 I'm currently learning APIs and ML<br>- ⚡ In my free time I code and I Produce music</p>
 
 ###
 
