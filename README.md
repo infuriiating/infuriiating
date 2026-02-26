@@ -4,17 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/unique-acharya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/uniq.wav" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">Olá/Hello 👋</h1>
 
 ###
@@ -23,7 +12,7 @@
 
 ###
 
-<p align="left">Yo wsp?, i'm Unique from Portugal<br><br>- 🔭 I’m a High schooler<br>- 📚 I'm currently learning APIs and ML<br>- ⚡ In my free time I code and I Produce music</p>
+<p align="left">Yo wsp?, i'm Unique<br><br>- 🔭 I’m a High schooler<br>- 📚 I'm currently learning APIs and AI<br>- ⚡ In my free time I code and I Produce music</p>
 
 ###
 
