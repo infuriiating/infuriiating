@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://count.getloli.com/@:uniq-wav?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
 ###
 
-<h1 align="center">Olá/Hello 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 ###
 
